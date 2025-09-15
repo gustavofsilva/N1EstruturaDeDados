@@ -65,5 +65,6 @@ int main() {
     // Liberar memória
     liberar_processos(processos);
     
+    system("pause");
     return 0;
 }
